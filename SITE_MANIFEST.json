@@ -1,0 +1,207 @@
+{
+  "domain": "cyclingpedal",
+  "niche": "Technical Cycling Pedal Hosiery & Aerodynamic Performance Socks",
+  "design_concept": "Editorial Monolith & Asymmetric Showcase",
+  "archetype_id": "editorial_monolith",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "cyclingpedal_asset_1.jpg",
+      "size_kb": 215.17,
+      "md5": "69db9aebbc2a2c656c4a0fb7f4c30be7",
+      "description": "02024 1899 christmas gift bag socks",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "cyclingpedal_asset_2.jpg",
+      "size_kb": 166.92,
+      "md5": "f99bfad2d66f0de64d10ccf657b48ba2",
+      "description": "a child s foot wearing a patterned",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "cyclingpedal_asset_3.jpg",
+      "size_kb": 132.28,
+      "md5": "f102fb338563364c0f8de6b38364484b",
+      "description": "blw pair of socks",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "cyclingpedal_asset_4.jpg",
+      "size_kb": 93.49,
+      "md5": "8f23681ecd8ddd7f43914ce56490f731",
+      "description": "bj rn borg socks 1",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "cyclingpedal_asset_5.jpg",
+      "size_kb": 212.79,
+      "md5": "848ff576748d3dc39b4bb4e7df8594b0",
+      "description": "bj rn borg socks 2",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "cyclingpedal_asset_6.jpg",
+      "size_kb": 122.37,
+      "md5": "aded85acbfe751527eb5b51b318370e3",
+      "description": "bj rn borg socks 3",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "cyclingpedal_asset_7.jpg",
+      "size_kb": 232.48,
+      "md5": "2a3a3d9b91811fd8ca895226f3e3e411",
+      "description": "cabin socks",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "cyclingpedal_asset_8.jpg",
+      "size_kb": 263.59,
+      "md5": "08f375a23b3d099e762180051e325b05",
+      "description": "early socks",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "cyclingpedal_asset_9.jpg",
+      "size_kb": 161.88,
+      "md5": "2e8eefe8c9c1c72992a15acb75eb0de3",
+      "description": "foot in toe socks relaxing on a cus",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "cyclingpedal_asset_10.jpg",
+      "size_kb": 290.16,
+      "md5": "fab7056fe661916cfff90e892f4642e2",
+      "description": "hand knit socks",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "cyclingpedal_asset_12.jpg",
+      "size_kb": 168.83,
+      "md5": "dae9a2ddcae8c8b0bd7cdcfde8c5a4eb",
+      "description": "lincoln museum golliwogg socks",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "cyclingpedal_asset_13.jpg",
+      "size_kb": 181.3,
+      "md5": "ccd493269c3fd67f4c6cc4c3f5ffe444",
+      "description": "shoes and socks male",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "cyclingpedal_asset_15.jpg",
+      "size_kb": 101.1,
+      "md5": "c882b7509a12c05f1f2e1c6b3448f93d",
+      "description": "sock miniature st394a costume",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "cyclingpedal_asset_16.jpg",
+      "size_kb": 91.1,
+      "md5": "da0af78b7851c51d17ab44fb23374a5e",
+      "description": "sock miniature st394b costume",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "cyclingpedal_asset_17.jpg",
+      "size_kb": 73.42,
+      "md5": "220dbf407cb021be08eeac89025b3cb8",
+      "description": "sock miniature st394d costume",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "cyclingpedal_asset_18.jpg",
+      "size_kb": 68.29,
+      "md5": "823d04d65a4e0e70f034180e47308e85",
+      "description": "sock miniature st394e costume",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "cyclingpedal_asset_19.jpg",
+      "size_kb": 82.97,
+      "md5": "015c0de6e95b8a81df75356357df24a1",
+      "description": "sock miniature st394f costume",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "cyclingpedal_asset_20.jpg",
+      "size_kb": 116.06,
+      "md5": "c1c8415ee67f79d2ab5792a9d46799f5",
+      "description": "sock st462 embroidery sampler",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "cyclingpedal_asset_21.jpg",
+      "size_kb": 63.19,
+      "md5": "898070b40dd3a8157e98da3c30911251",
+      "description": "sock st476ab costume accessory",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "cyclingpedal_asset_22.jpg",
+      "size_kb": 117.79,
+      "md5": "5d2757502f82b2a78367fd942d484147",
+      "description": "sock st477 costume accessory so",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://cyclingpedal.com/sitemap.xml",
+    "robots": "https://cyclingpedal.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
